@@ -1,16 +1,8 @@
-# hardvard_art
+# Harvard Museums
+This project introduces the Havard Museums API, for purely educational purposes powered by Flutter/Dart.
 
-A new Flutter project.
+This project will have different uses of the Harvard Museums API. Starting with the items in the Harvard Art Museums collections. To obtain information on how this service works, consult its public repository:
 
-## Getting Started
+https://github.com/harvardartmuseums/api-docs?tab=readme-ov-file#resources-that-are-available
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![harvard_design](https://github.com/johnvazna/Harvard_Museums/assets/13882319/289e5f5d-4cff-4244-82cc-d61678ec392f)
